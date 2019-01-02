@@ -1,5 +1,5 @@
 # Visualizing the Gender Gap In College Degrees
-Jupyter Notebook in Python using [matplotlib](https://matplotlib.org/) for visualizing the gender gap in college degrees.
+Jupyter Notebook in Python using [matplotlib](https://matplotlib.org/) for visualizing the gender gap in college degrees as part of [Dataquest's storytelling through data visualization guided project](https://www.dataquest.io/course/storytelling-data-visualization).
 
 ## Release History
 
@@ -26,5 +26,7 @@ Job outcomes of students who graduated from college between 2010 and 2012. The o
 * Part_time - Number employed less than 35 hours.
 
 ## Output
-
 ![Output](https://github.com/awhlam/VisualizingGenderGapInCollegeDegrees/blob/master/gender_degrees.png)
+
+## License
+[MIT License](https://opensource.org/licenses/MIT)
