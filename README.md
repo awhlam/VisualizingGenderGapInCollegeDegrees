@@ -1,5 +1,5 @@
 # Visualizing the Gender Gap In College Degrees
-Jupyter Notebook in Python using [matplotlib](https://matplotlib.org/) for visualizing the gender gap in college degrees as part of [Dataquest's Storytelling through Data Visualization guided project](https://www.dataquest.io/course/storytelling-data-visualization).
+Jupyter Notebook in Python using [matplotlib](https://matplotlib.org/) for visualizing the gender gap in college degrees as part of [Dataquest's Storytelling through Data Visualization](https://www.dataquest.io/course/storytelling-data-visualization) guided project.
 
 ## Release History
 
