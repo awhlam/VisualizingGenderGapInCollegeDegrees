@@ -1,5 +1,5 @@
-# VisualizingGenderGapInCollegeDegrees
-Jupyter Notebook for visualizing data set of college degrees by gender.
+# Visualizing the Gender Gap In College Degrees
+Jupyter Notebook in Python using [matplotlib](https://matplotlib.org/) for visualizing the gender gap in college degrees.
 
 ## Release History
 
