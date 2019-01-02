@@ -24,3 +24,7 @@ Job outcomes of students who graduated from college between 2010 and 2012. The o
 * Low_wage_jobs - Number in low-wage service jobs.
 * Full_time - Number employed 35 hours or more.
 * Part_time - Number employed less than 35 hours.
+
+## Output
+
+[Output](https://github.com/awhlam/VisualizingGenderGapInCollegeDegrees/blob/master/gender_degrees.png)
