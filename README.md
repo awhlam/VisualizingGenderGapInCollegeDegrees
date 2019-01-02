@@ -27,4 +27,4 @@ Job outcomes of students who graduated from college between 2010 and 2012. The o
 
 ## Output
 
-[Output](https://github.com/awhlam/VisualizingGenderGapInCollegeDegrees/blob/master/gender_degrees.png)
+![Output](https://github.com/awhlam/VisualizingGenderGapInCollegeDegrees/blob/master/gender_degrees.png)
